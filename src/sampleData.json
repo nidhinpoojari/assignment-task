@@ -1,0 +1,14 @@
+{
+    "Name": "text",
+    "Email":"email",
+    "DOB":"date",
+    "Phone no.":"text",
+    "Address":"text",
+    "Age": "number",
+    "Gender":"radio",
+    "Are you currently working?":"checkbox",
+    "Job Title":"text",
+    "Work Schedule":"array",
+    "Skills": "array",
+    "Interests":"text"
+}
