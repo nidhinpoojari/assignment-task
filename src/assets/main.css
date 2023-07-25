@@ -49,6 +49,14 @@ img {
   border-bottom-right-radius: 10px;
 }
 
+.form-header h3 {
+  text-align: center; /* Center the text */
+  font-size: 24px; /* Increase the font size for better visibility */
+  margin: 0; /* Remove default margin to prevent extra spacing */
+  padding: 10px 0; /* Add some padding to create space around the text */
+  font-weight: bold; /* Add bold font-weight for emphasis */
+}
+
 /* Media query for mobile screens */
 @media (max-width: 599px) {
   .image-side {
@@ -134,6 +142,8 @@ img {
 
 /* Styling for the form header */
 .form-header {
+  margin-left: 10px;
+  margin-right: 10px;
   display: flex;
   align-items: center;
   justify-content: space-between;
